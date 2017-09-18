@@ -1,0 +1,17 @@
+{
+  "name": "magic-self-signed-ssl",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": {
+    "name": "Albin Ekblom",
+    "email": "albinekblom@gmail.com",
+    "url": "https://github.com/albinekb"
+  },
+  "description": "🔒 Enable SSL for your dev server ⚡️ fast",
+  "repository": "albinekb/magic-self-signed-ssl",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^4.0.2",
+    "ssl-self-signed-certificate": "^0.1.2"
+  }
+}
