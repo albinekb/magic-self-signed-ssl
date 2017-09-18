@@ -9,7 +9,7 @@ const SSL_PORT = 3443
 
 ...
 
-const secureServer = await magicSSL(server)
+const secureServer = await magicSSL(server, __dirname)
 
 ...
 
